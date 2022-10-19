@@ -9,7 +9,7 @@ There are two methods to run this application
  `npm start`
 ##### Method 2
 `docker build -t rss-frontend .`
-`docker run -dp 3000:3000 rss-frontend`\
-
+`docker run -dp 3000:3000 rss-frontend`
+<br/>
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
